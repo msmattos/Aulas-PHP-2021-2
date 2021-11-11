@@ -64,7 +64,7 @@
     <header class="blog-header py-3">
       <div class="row pb-1">
         <div class="col-4 pt-1">
-          <a class="link-secondary" href="index.html"><img style=" height: auto; width: auto; max-width: 200px; 
+          <a class="link-secondary" href="index.php"><img style=" height: auto; width: auto; max-width: 200px; 
             max-height: 60px;" src="img/desenvolvimento-web.png"></a>
         </div>
         <div class="col-4 text-center">
@@ -88,7 +88,7 @@
 
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-          <a class="navbar-brand" href="index.html"><img alt="LogoIFRJ" style=" height: auto; width: auto; max-width: 16px; 
+          <a class="navbar-brand" href="index.php"><img alt="LogoIFRJ" style=" height: auto; width: auto; max-width: 16px; 
             max-height: 16px;" src="img/Logo-ifrj.png"></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
             aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -97,7 +97,7 @@
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">início</a>
+                <a class="nav-link active" aria-current="page" href="index.php">início</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="https://classroom.google.com/" target="_blank">Classroom</a>
