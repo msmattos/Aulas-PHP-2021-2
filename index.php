@@ -84,8 +84,6 @@
         </div>
       </div>
 
-
-
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.php"><img alt="LogoIFRJ" style=" height: auto; width: auto; max-width: 16px; 
