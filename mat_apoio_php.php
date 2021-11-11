@@ -12,6 +12,8 @@
     <a href="materiais-php/apostila-PHP-IFES.pdf" target="_blank" > <i class="bi bi-file-earmark-pdf-fill" style="font-size: 2rem; color: red;"></i>Apostila PHP IFES</a>
     <a href="https://www.w3schools.com/php" target="_blank" > <i class="bi bi-link" style="font-size: 2rem;"></i>W3Schools - PHP tutorial</a>
     <a href="https://www.php.net/manual/pt_BR" target="_blank" > <i class="bi bi-link" style="font-size: 2rem;"></i>Manual do PHP</a>
+    <a href="https://getbootstrap.com/" target="_blank" > <i class="bi bi-link" style="font-size: 2rem;"></i>Bootstrap</a>
+    <a href="https://www.heroku.com/" target="_blank" > <i class="bi bi-link" style="font-size: 2rem;"></i>Heroku</a>
   </div>
 </main>
 
