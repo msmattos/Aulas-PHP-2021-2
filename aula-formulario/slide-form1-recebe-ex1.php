@@ -5,9 +5,8 @@
 ?>
   <div class="container">
     <?php
-    $email = $_POST["email"];
-    $nome = $_POST["nome"];
-    echo "Olá ".$nome."!<br> E-mail passado no <i>form</i>: ".$email;
+      $email = $_POST["email"];
+      echo "e-mail passado no form: " .$email;
     ?>
   </div>
   <!-- Button trigger modal -->
@@ -26,14 +25,11 @@
           </div>
           <div class="modal-body">
             <?php 
-            echo '
-            &#60;&#63 php<br>
-                    $email = $_POST["email"];<br>
-                    $nome = $_POST["nome"];<br>
-                    echo "Olá ".$nome."!<br> E-mail passado no <i>form</i>: ".$email;
-            <br>&#63&#62'
-
-
+              echo '
+              &#60;&#63 php<br>
+              $email = $_POST["email"];<br>
+              echo "e-mail passado no form: ".$email;
+              <br>&#63&#62'
             ?>
           </div>
           <div class="modal-footer">
