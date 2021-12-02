@@ -14,6 +14,12 @@
       <p>
         <a href="aula-formulario/slide-form1-exemplo1.php" > <i class="fa fa-check fa-1x"></i> Slide Formulários 1 - Exemplo 1</a>
       </p>
+      <p>
+        <a href="aula-formulario/formA03.php" > <i class="fa fa-check fa-1x"></i> Aula 03 - método get e validação</a>
+      </p>
+      <p>
+        <a href="aula-formulario/formA04.php" > <i class="fa fa-check fa-1x"></i> Aula 04 - validação</a>
+      </p>
   </div>
 </main>
 <?php
