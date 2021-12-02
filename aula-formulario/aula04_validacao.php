@@ -20,7 +20,7 @@
 			$email =  $_POST['txtemail'];
 			if (($tam_email <5) || ($tam_email > 64)) {
 					$mostra = false;
-				echo "o campo e-mail deve ter entre 3 e 64 caracteres <br />" ;
+				echo "o campo e-mail deve ter entre 5 e 64 caracteres <br />" ;
 			}
 			if ($mostra) {
 					echo "Nome: $nome  E-mail: $email";             
