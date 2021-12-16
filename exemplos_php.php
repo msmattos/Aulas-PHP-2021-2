@@ -20,6 +20,16 @@
       <p>
         <a href="aula-formulario/formA04.php" > <i class="fa fa-check fa-1x"></i> Aula 04 - validação</a>
       </p>
+      <p>
+        <a href="aula-sessao/sessao.php" > <i class="fa fa-check fa-1x"></i> Aula 05 - sessão</a>
+      </p>
+      <p>
+        <a href="aula-sessao/sessao_login.php" > <i class="fa fa-check fa-1x"></i> Aula 05 - login com sessão</a>
+      </p>
+      <p>
+        <a href="aula-sessao/pagina_cookie.php" > <i class="fa fa-check fa-1x"></i> Aula 05 - Cookies</a>
+      </p>
+      
   </div>
 </main>
 <?php
