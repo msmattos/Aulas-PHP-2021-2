@@ -8,7 +8,7 @@
 <body>
   <form action="registra_sessao_login.php" method="post">
     Digite o seu nome:
-    <input type="text" name="campo_usuario" required/>
+    <input type="text" name="campo_usuario" required/><br>
     Digite sua senha: 
     <input type="password" name="campo_senha" required/><br>
     <input type="submit" value="Autenticar" />
