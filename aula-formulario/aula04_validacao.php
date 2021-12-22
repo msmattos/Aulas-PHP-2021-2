@@ -1,7 +1,7 @@
 <?php
 #Formulários
-   //Cabeçalho
-   include "..//views/header.php";
+//Cabeçalho
+include "..//views/header.php";
 ?>
 <div class="container mt-3">
 	<div style="width:60%; margin:auto;">

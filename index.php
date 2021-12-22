@@ -1,17 +1,14 @@
 <!doctype html>
 <html lang="pt">
-
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
   <meta name="generator" content="Hugo 0.88.1">
+  <meta name="theme-color" content="#7952b3">
   <title>Desenvolvimento Web</title>
-
   <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/blog/">
-
-
 
   <!-- Bootstrap core CSS -->
   <link href="css/bootstrap.css" rel="stylesheet">
@@ -23,14 +20,10 @@
   <link rel="manifest" href="img/favicons/manifest.json">
   <link rel="mask-icon" href="img/favicons/safari-pinned-tab.svg" color="#7952b3">
   <link rel="icon" href="img/favicons/favicon.ico">
+  
   <!-- Icons -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-
-
-
-  <meta name="theme-color" content="#7952b3">
-
 
   <style>
     .bd-placeholder-img {
@@ -48,18 +41,15 @@
     }
   </style>
 
-
   <!-- Custom styles for this template -->
   <link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/">
+
   <!-- Custom styles for this template -->
   <link href="css/blog.css" rel="stylesheet">
   <script src="js/bootstrap.js"></script>
-
 </head>
-
 <body>
-
   <div class="container">
     <header class="blog-header py-3">
       <div class="row pb-1">
@@ -122,7 +112,6 @@
     </header>
   </div>
 
-
   <main class="container">
     <div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
       <div class="col-md-6 px-0">
@@ -131,7 +120,6 @@
         <p class="lead mb-0"><a href="#" class="text-white fw-bold"></a></p>
       </div>
     </div>
-
     <div class="row mb-2">
       <div class="col-md-6">
         <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-150 position-relative">
@@ -184,7 +172,6 @@
           document.write(d.getFullYear())
         </script> Instituto Federal do Rio de Janeiro.
       </div>
-      <footer>
+  </footer>
 </body>
-
 </html>

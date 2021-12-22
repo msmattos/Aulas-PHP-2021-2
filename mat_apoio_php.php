@@ -1,8 +1,6 @@
-
-
-  <?php
-    include "header_principal.php";
-  ?>
+<?php
+  include "header_principal.php";
+?>
 <main class="container">
   <div class="row m-2 p-2 text-white rounded bg-dark">
         <h3 class="fst-italic">PHP - Materiais de Apoio</h3>
@@ -16,7 +14,6 @@
     <a href="https://www.heroku.com/" target="_blank" > <i class="bi bi-link" style="font-size: 2rem;"></i>Heroku</a>
   </div>
 </main>
-
 <?php
     include "footer_principal.php";
 ?>

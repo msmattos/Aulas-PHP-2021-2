@@ -1,4 +1,3 @@
-
 <?php
   include "header_principal.php";
 ?>
@@ -28,10 +27,9 @@
       </p>
       <p>
         <a href="aula-sessao/pagina_cookie.php" > <i class="fa fa-check fa-1x"></i> Aula 05 - Cookies</a>
-      </p>
-      
+      </p>      
   </div>
 </main>
 <?php
-    include "footer_principal.php";
+  include "footer_principal.php";
 ?>

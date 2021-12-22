@@ -17,6 +17,6 @@
         </script> Instituto Federal do Rio de Janeiro.
       </div>      
     </div>
-  <footer>
+  </footer>
 </body>
 </html>
