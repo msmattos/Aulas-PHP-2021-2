@@ -96,9 +96,9 @@
                   PHP
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <li><a class="dropdown-item" href="../mat_apoio_php.php">Materiais de apoio</a></li>
-                  <li><a class="dropdown-item" href="../exemplos_php.php">Exemplos</a></li>
-                  <li><a class="dropdown-item" href="../exercicios_php.php">Exercícios</a></li>
+                  <li><a class="dropdown-item" href="../views/mat_apoio.php">Materiais de apoio</a></li>
+                  <li><a class="dropdown-item" href="../views/exemplos.php">Exemplos</a></li>
+                  <li><a class="dropdown-item" href="../views/exercicios.php">Exercícios</a></li>
                 </ul>
               </li>
             </ul>

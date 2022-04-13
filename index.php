@@ -99,9 +99,9 @@
                   PHP
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <li><a class="dropdown-item" href="mat_apoio_php.php">Materiais de apoio</a></li>
-                  <li><a class="dropdown-item" href="exemplos_php.php">Exemplos</a></li>
-                  <li><a class="dropdown-item" href="exercicios_php.php">Exercícios</a></li>
+                  <li><a class="dropdown-item" href="views/mat_apoio.php">Materiais de apoio</a></li>
+                  <li><a class="dropdown-item" href="views/exemplos.php">Exemplos</a></li>
+                  <li><a class="dropdown-item" href="views/exercicios.php">Exercícios</a></li>
                 </ul>
               </li>
             </ul>
@@ -126,7 +126,7 @@
           <div class="col p-4 d-flex flex-column position-static">
             <strong class="d-inline-block mb-2 text-primary">Materiais de apoio</strong>
               <p class="card-text mb-auto">Encontre os materiais de apoio da disciplina Desenvolvimento Web III</p>
-            <a href="mat_apoio_php.php" class="stretched-link">Continue aqui...</a>
+            <a href="views/mat_apoio.php" class="stretched-link">Continue aqui...</a>
           </div>
           <div class="col-auto d-none d-lg-block">
             <img class="bd-placeholder-img" width="200" height="150" src="img/machine-learning.jpg" role="img"
@@ -141,7 +141,7 @@
           <div class="col p-4 d-flex flex-column position-static">
             <strong class="d-inline-block mb-2 text-success">Exemplos</strong>
              <p class="mb-auto"> Exemplos usados nas aulas da disciplina Desenvolvimento Web III</p>
-            <a href="exemplos_php.php" class="stretched-link">Continue aqui...</a>
+            <a href="views/exemplos.php" class="stretched-link">Continue aqui...</a>
           </div>
           <div class="col-auto d-none d-lg-block">
             <img class="bd-placeholder-img" width="200" height="150" src="img/example.jpg" role="img"

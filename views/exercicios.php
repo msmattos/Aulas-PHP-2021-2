@@ -1,5 +1,5 @@
 <?php
-  include "header_principal.php";
+  include "header.php";
 ?>
 <main class="container">
   <div class="row m-2 p-2 text-white rounded bg-dark">
@@ -11,5 +11,5 @@
   </div>
 </main>
 <?php
-    include "footer_principal.php";
+    include "footer.php";
 ?>
