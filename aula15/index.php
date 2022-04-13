@@ -47,10 +47,10 @@
           if (file_exists($pag[$link])){ 
             include $pag[$link]; 
           }
-        else
-        { 
-          print "Página não foi encontrada"; }
-        }
+          else
+          { 
+            print "Página não foi encontrada"; }
+          }
         ?>
         </td></tr>
       </table>
