@@ -21,7 +21,8 @@
     <a href="../materiais-php/Aula_01-Apresentação_da_disciplina.pdf" target="_blank" > <i class="bi bi-file-earmark-pdf-fill" style="font-size: 2rem; color: red;"></i>Aula 01 - apresentação da disciplina</a>
     <a href="../materiais-php/Aula_02-Formularios_I.pdf" target="_blank" > <i class="bi bi-file-earmark-pdf-fill" style="font-size: 2rem; color: red;"></i>Aula 02 - formulários I</a>
     <a href="../materiais-php/Aula_03-Formularios_II.pdf" target="_blank" > <i class="bi bi-file-earmark-pdf-fill" style="font-size: 2rem; color: red;"></i>Aula 03 - formulários II</a>
-    <a href="../materiais-php/Aula_04-Validacao.pdf" target="_blank" > <i class="bi bi-file-earmark-pdf-fill" style="font-size: 2rem; color: red;"></i>Aula 04 - validação</a>    
+    <a href="../materiais-php/Aula_04-Validacao.pdf" target="_blank" > <i class="bi bi-file-earmark-pdf-fill" style="font-size: 2rem; color: red;"></i>Aula 04 - validação</a>
+    <a href="../materiais-php/Aula_05-Sessao_e_cookies.pdf" target="_blank" > <i class="bi bi-file-earmark-pdf-fill" style="font-size: 2rem; color: red;"></i>Aula 05 - Sessão e Cookies</a>    
   </div>
 </main>
 <?php
