@@ -9,7 +9,7 @@ include "..//views/header.php";
 			<?php
 				$teste_nome       = isset($_GET["nome"]);  // testar se tem a variável
 				$teste_profissao  = isset($_GET["profissao"]);
-	    			$teste_estado  = isset($_GET["estado"]);
+	    			$teste_estado = isset($_GET["estado"]);
 				$opt3 = isset($_GET["opt3"]);// pode-se definir a variável de teste para depois usar no "if", vejam no final do código
 				$opt4 = isset($_GET["opt4"]);
 				$opt5 = isset($_GET["opt5"]);
