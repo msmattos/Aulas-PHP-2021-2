@@ -8,6 +8,7 @@ include "..//views/header.php";
 			<h3>Exibição dos testes e variações de codificação como ilustrativo de possibilidades de uso</h3>
 			<?php
 				$teste_nome = isset($_GET["nome"]);  // testar se tem a variável
+				$teste_estado = isset($_GET["estado"]);
 				$teste_profissao = isset($_GET["profissao"]);
 	    			
 				$opt3 = isset($_GET["opt3"]);// pode-se definir a variável de teste para depois usar no "if", vejam no final do código
@@ -18,7 +19,8 @@ include "..//views/header.php";
 				$profissao  = $_REQUEST["profissao"];
 			?>
 			<b>Exibe 1 (um) se existe o objeto. Vejam o teste a seguir.</b><br>
-			Testa se tem o objeto "nome": <?=$teste_nome?><br>
+			Testa se tem o objeto "nome": <?=$teste_nome?><br> 
+			Testa se tem o objeto "estado": <?=$teste_estado?><br>
 			Testa se tem o objeto "profissao": <?=$teste_profissao?><br>
 			
 			<h3>Dados pessoais:</h3>
