@@ -7,9 +7,10 @@ include "..//views/header.php";
     <div style="width:60%; margin:auto;">
 			<h3>Exibição dos testes e variações de codificação como ilustrativo de possibilidades de uso</h3>
 			<?php
-				$teste_nome       = isset($_GET["nome"]);  // testar se tem a variável
-				$teste_profissao  = isset($_GET["profissao"]);
-	    			$teste_estado = isset($_GET["estado"]);
+				$teste_nome = isset($_GET["nome"]);  // testar se tem a variável
+				$teste_estado = isset($_GET["estado"]);
+				$teste_profissao = isset($_GET["profissao"]);
+	    			
 				$opt3 = isset($_GET["opt3"]);// pode-se definir a variável de teste para depois usar no "if", vejam no final do código
 				$opt4 = isset($_GET["opt4"]);
 				$opt5 = isset($_GET["opt5"]);
